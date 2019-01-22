@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1548150148 source:c:\users\alexi\desktop\ludus\f2\c\vecteurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vecteur1.h"
+	"vecteur2.h"
+
+1548150097 c:\users\alexi\desktop\ludus\f2\c\vecteurs\vecteur1.h
+
+1548149397 c:\users\alexi\desktop\ludus\f2\c\vecteurs\vecteur2.h
+
+1548150498 source:c:\users\alexi\desktop\ludus\f2\c\vecteurs\vecteur1.c
+	<stdio.h>
+	"vecteur1.h"
+
